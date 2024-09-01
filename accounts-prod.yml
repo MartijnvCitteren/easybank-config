@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EasyBank prod related APIs"
   contactDetails:
     name: "John doe"
-    email: "john@mailme.com"
+    email: "{cipher}5053b724e2172cefe6bb84d00eb679fd81d00d9e2f87326ef83a6a3a128c7c04"
   onCallSupport:
     - 123-456-7890
     - 123-456-7811
