@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EasyBank prod related APIs cards - I changed"
+  message: "Welcome to EasyBank prod related APIs cards - I changed, but now double check if I automatically change!?"
   contactDetails:
     name: "John doe"
     email: "john@mailme.com"
