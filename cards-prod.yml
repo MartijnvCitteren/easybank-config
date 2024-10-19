@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EasyBank prod related APIs cards - updated via webhook -- 2nd attemped?"
+  message: "Welcome to EasyBank prod related APIs cards - I'm updated again via webhook"
   contactDetails:
     name: "John doe"
     email: "john@mailme.com"
